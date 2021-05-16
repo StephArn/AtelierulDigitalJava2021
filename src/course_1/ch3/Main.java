@@ -41,5 +41,6 @@ public class Main {
         System.out.println("Numarul de perechi:");
         System.out.println(counter);
 
+
     }
 }

@@ -1,4 +1,4 @@
-package com.unibuc.array;
+package course_1.array;
 
 public class Main {
     public static void displayArray(){

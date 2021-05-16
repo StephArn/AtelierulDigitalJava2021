@@ -1,4 +1,4 @@
-package ch2;
+package course_1.ch2;
 
 public class Main {
     public static String FooBarQix(int n){

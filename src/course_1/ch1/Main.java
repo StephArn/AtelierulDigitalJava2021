@@ -1,4 +1,4 @@
-package ch1;
+package course_1.ch1;
 
 public class Main {
     public static void PrintFizzBuzzRizzJazz(){
